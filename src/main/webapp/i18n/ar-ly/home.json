@@ -1,19 +1,24 @@
 {
   "home": {
-    "title": "أهلا وسهلا بك، جافا هبستر!",
+    "title": "أهلا وسهلا بك في تطبيق الجودة!",
     "subtitle": "هذه صفحتك الرئيسية",
     "logged": {
       "message": "قمت بتسجيل الدخول كمستخدم \"{{username}}\"."
     },
-    "question": "إذا كان لديك أي سؤال حول JHipster:",
+    "question": "إذا كان لديك أي سؤال حول تطبيق الجودة",
     "link": {
-      "homepage": "JHipster homepage",
+      "homepage": "",
+      "email": "البريد الإلكتروني: senhmed@gmail.com",
+      "phone": "الهاتف: 002237234715",
       "stackoverflow": "JHipster on Stack Overflow",
       "bugtracker": "JHipster bug tracker",
       "chat": "JHipster public chat room",
       "follow": "follow @jhipster on Twitter"
     },
-    "like": "إذا كنت تحب JHipster، لا تنسى أن تعطي لنا نجم على",
+    "like": "إذا أعجبك تطبيق الجودة، لا تنسى أن ترسل لنا like على",
+    "twiter": "تويتر ",
+    "facebook": "فيسبوك ",
+    "linkedin": "LinkedIn ",
     "github": "GitHub"
   }
 }

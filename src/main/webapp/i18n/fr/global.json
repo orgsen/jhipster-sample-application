@@ -1,6 +1,6 @@
 {
   "global": {
-    "title": "JhipsterSampleApplication",
+    "title": "Application EL JODA",
     "browsehappy": "Vous utilisez un <strong>ancien</strong> navigateur. Veuillez <a href=\"http://browsehappy.com/?locale=fr\">mettre à jour votre navigateur</a> pour une meilleure expérience.",
     "menu": {
       "home": "Accueil",
@@ -131,5 +131,5 @@
     "idexists": "Une nouvelle entité {{entityName}} ne peut pas avoir d'ID !",
     "idnull": "Invalid ID"
   },
-  "footer": "Ceci est votre pied de page"
+  "footer": "Développée par SenhouryIT tous les droits sont resérvés @2019"
 }
